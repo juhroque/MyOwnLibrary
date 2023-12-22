@@ -41,7 +41,7 @@ public class BookRepository : IBookRepository
 ```
 
 
--  Notice that we use *Dependency Injection* in the repository constructor. (Explained more deeply in the [Controllers](DotNet/Content/Controllers.md) section.)
+-  Notice that we use *Dependency Injection* in the repository constructor. (Explained more deeply in the [Controllers](Controllers.md) section.)
 
 Add this line to the ***Program.cs*** file:
 
