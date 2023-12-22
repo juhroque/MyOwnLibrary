@@ -1,4 +1,4 @@
-**Important**: to understand the informations provided below, it is mandatory to know basic *HTTP* and [[Data Transfer Objects]] concepts.
+**Important**: to understand the informations provided below, it is mandatory to know basic *HTTP* and [Data Transfer Objects](DotNet/Content/DataTransferObjects.md) concepts.
 ## Understanding and creating the controller
 
 -  A controller is a class that processes incoming HTTP requests, performs the necessary actions, and produces an HTTP response.
