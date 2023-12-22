@@ -5,7 +5,7 @@
 -  **Important**: Create a folder in the project specifically to agreggate the **models**.
 -  Considering this bookstore UML diagram, let's create the *main* models (Book and Author):
 
-![[library-domain-uml-class-diagram-example.png]]
+![uml diagram](library-domain-uml-class-diagram-example.png)
 
 ## Book
 
