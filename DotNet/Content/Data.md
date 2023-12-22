@@ -59,6 +59,6 @@ builder.Services.AddDbContext<DataContext>(options =>
 
 -  This topic is explained in other page:
 
-[[Repository and Dependency Injection]]
+[Repository and Dependency Injection](Repository%20and%20Dependency%20Injection.md)
 
  
